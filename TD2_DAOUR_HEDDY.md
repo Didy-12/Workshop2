@@ -15,7 +15,7 @@ torrent --version
 ## Question 1 : Create a torrent containing this image.
 
 <img width="397" alt="Capture d’écran 2024-02-10 à 22 21 35" src="https://github.com/Didy-12/Workshop2/assets/120495158/20627cfc-059b-4079-964f-a924a99542ab">
-
+                                                    
 <img width="115" alt="Capture d’écran 2024-02-10 à 22 22 44" src="https://github.com/Didy-12/Workshop2/assets/120495158/c4b8474d-b9e3-442f-bcf4-a3a503cc5754">
 
 we can see the info off image.torrent by typing this command:
